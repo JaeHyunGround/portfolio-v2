@@ -1,0 +1,35 @@
+.Activities {
+  width: fit-content;
+  margin: 0 auto 15% auto;
+  display: flex;
+  flex-direction: column;
+}
+
+.Activities__title {
+  margin-bottom: 10%;
+  position: relative;
+  font-size: 100px;
+  font-weight: 900;
+  background: -webkit-linear-gradient(beige, #ffc0cb);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.Activities__title_item {
+  display: flex;
+  flex-direction: column;
+  cursor: default;
+}
+
+.Activities__title_item_name {
+  font-size: 20px;
+  font-weight: 900;
+}
+.Activities__title_item_detail {
+  margin: 3% 0 3% 0;
+  font-size: 18px;
+}
+.Activities__title_item_date {
+  margin-bottom: 5%;
+  text-align: right;
+}
