@@ -11,7 +11,7 @@ const pretendard = localFont({
 })
 
 export const metadata: Metadata = {
-  title: 'JAY | 안재현',
+  title: 'REX | 안재현',
   description: '안재현의 포트폴리오'
 }
 

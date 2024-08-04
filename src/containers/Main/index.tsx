@@ -8,7 +8,7 @@ export default function Main() {
   return (
     <main className={styles.Main}>
       <section className={styles.Main__title}>
-        <div className={styles.title}>JAY</div>
+        <div className={styles.title}>REX</div>
         <div className={styles.title}>
           AHN
           <br />
