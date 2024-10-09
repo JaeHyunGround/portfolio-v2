@@ -12,7 +12,7 @@ const pretendard = localFont({
 
 export const metadata: Metadata = {
   title: 'REX | 안재현',
-  description: '안재현의 포트폴리오'
+  description: 'Frontend 개발자 안재현의 웹 포트폴리오입니다.'
 }
 
 export default function RootLayout({
